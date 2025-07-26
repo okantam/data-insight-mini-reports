@@ -27,5 +27,5 @@ This repository contains three exploratory data analysis and modeling projects f
 - **Files**: Cleaned data files (`students.csv`, `employees.csv`), slides, report
 
 ## 💡 About
-This repo showcases concise, well-executed data analysis projects developed by Michael Okanta, leveraging R and statistical modeling to answer meaningful questions across finance, healthcare, and sustainability.
+This repo showcases concise, well-executed data analysis projects I developed, leveraging R and statistical modeling to answer meaningful questions across finance, healthcare, and sustainability.
 
